@@ -1,0 +1,159 @@
+## restful api's a step by step guide
+[restful api's a step by step guide](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)
+
+https://tools.ietf.org/html/draft-ietf-httpbis-bcp56bis-06
+
+## are you glad you moved from rest to graphql
+[are you glad you moved from rest to graphql](https://news.ycombinator.com/item?id=17565508)
+
+## rest was never about crud
+[rest was never about crud](https://tyk.io/blog/rest-never-crud/)
+
+# goodbye microservices
+[goodbye microservices](https://segment.com/blog/goodbye-microservices/)
+
+## 8 reasons why your api adoption is so slow
+[8 reasons why your api adoption is so slow](https://techbeacon.com/8-reasons-why-your-api-adoption-so-slow)
+
+## A Microservices implementation journey - Part 1
+[A Microservices implementation journey - Part 1](https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917)
+
+## A Microservices implementation journey - Part 2
+[A Microservices implementation journey - Part 2](https://koukia.ca/a-microservices-implementation-journey-part-2-10c422a4d402)
+
+## A Microservices implementation journey - Part 3
+[A Microservices implementation journey - Part 3](https://koukia.ca/a-microservices-implementation-journey-part-3-50f030ba6bb5)
+
+## A Microservices implementation journey - Part 4
+[A Microservices implementation journey](https://koukia.ca/a-microservices-implementation-journey-part-4-9c19a16385e9?gi=192c87ccc695)
+
+## Optimizing the Netflix API
+[Optimizing the Netflix API](https://medium.com/netflix-techblog/optimizing-the-netflix-api-5c9ac715cf19)
+
+## API Governance Blueprint
+[API Governance Blueprint](https://matthewreinbold.com/2017/10/03/API-Governance-Blueprint)
+
+## the good way to rest (part 1)
+[the good way to rest (part 1)](https://blog.refineri.co.uk/the-good-way-to-rest-part-1-909566ae790)
+
+## the death of microservices
+[the death of microservices](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018)
+
+## Beyond OAuth2: End to End Microservice Security
+[Beyond OAuth2: End to End Microservice Security](https://www.infoq.com/presentations/oauth2-microservices-security?utm_source=infoqEmail&utm_medium=SpecialNL_EditorialContent&utm_campaign=01222018_SpecialNL&forceSponsorshipId=1606#theCommentsSection)
+
+## the last json spec
+[the last json spec](https://www.tbray.org/ongoing/When/201x/2017/12/14/RFC-8259-STD-90)
+
+## google api explorer
+[google api explorer](https://developers.google.com/apis-explorer/#p)
+
+## asyncapi is a specification format for message driven apis
+[asyncapi is a specification format for message driven apis](https://apievangelist.com/2017/11/29/asyncapi-is-a-specification-format-for-message-driven-apis/)
+
+## introducing-twitter premium apis
+[introducing-twitter premium apis](https://blog.twitter.com/developer/en_us/topics/tools/2017/introducing-twitter-premium-apis.html)
+
+## API design choosing between names and identifiers in URLs
+[API design choosing between names and identifiers in URLs](https://cloudplatform.googleblog.com/2017/10/API-design-choosing-between-names-and-identifiers-in-URLs.html)
+
+## paypal API standards and patterns
+[paypal API standards and patterns](https://www.infoq.com/news/2017/09/paypal-api-guide)
+[paypal API standards](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
+[paypal API guidelines](https://github.com/paypal/api-standards/blob/master/patterns.md)
+
+## securing microservices
+[securing microservices](https://medium.facilelogin.com/securing-microservices-with-oauth-2-0-jwt-and-xacml-d03770a9a838)
+
+## 7 frameworks to build a rest api in Go
+[7 frameworks to build a rest api in Go](http://nordicapis.com/7-frameworks-to-build-a-rest-api-in-go)
+
+## swagger aint rest
+[swagger aint rest](http://blog.howarddierking.com/2016/10/07/swagger-ain-t-rest-is-that-ok/)
+[swagger aint rest - reddit discussion](https://www.reddit.com/r/programming/comments/56ggr7/swagger_aint_rest/)
+
+## you should use access tokens to secure API
+[you should use access tokens to secure API](https://www.programmableweb.com/news/why-you-should-use-access-tokens-to-secure-api/elsewhere-web/2017/06/11)
+
+## roy fielding on versioning
+[roy fielding on versioning](https://www.infoq.com/articles/roy-fielding-on-versioning)
+[found in this HN discussion](https://news.ycombinator.com/item?id=14515473)
+
+## apicurio
+[apicurio](https://apievangelist.com/2017/05/30/apicurio-is-the-open-source-api-editor-i-was-looking-for)
+
+## the hardest part about microservices
+[the hardest part about microservices](http://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data)
+
+## guide to api management tools
+[guide to api management tools](http://sdtimes.com/guide-api-management-tools)
+
+## rest anti-patterns
+[rest anti-patterns](https://www.infoq.com/articles/rest-anti-patterns)
+[rest anti-patterns hn](https://news.ycombinator.com/item?id=14307278)
+
+## stop using jwt for sessions
+[stop using jwt for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions)
+
+## what json web tokens are bad (hacker news)
+[things to use instead of jwt](https://kev.inburke.com/kevin/things-to-use-instead-of-jwt)
+[things to use instead of jwt - HN discussion](https://news.ycombinator.com/item?id=14290114)
+[spreadsheet from HN discussion](https://docs.google.com/spreadsheets/d/1tAX5ZJzluilhoYKjra-uHbMCZraaQkqIHl3RIQ8mVkM/edit#gid=0)
+
+## grpc web - moving past rest towards type safe web
+[grpc web - moving past rest towards type safe web](https://spatialos.improbable.io/games/grpc-web-moving-past-restjson-towards-type-safe-web-apis#hn)
+
+## microservice prerequeisites
+[microservice prerequeisites](https://martinfowler.com/bliki/MicroservicePrerequisites.html)
+
+## micro monolith anti pattern
+[micro monolith anti pattern](http://chi.pl/2017/01/30/Micro-monolith-Anti-pattern.html)
+
+## the problems with swagger
+[the problems with swagger](http://blog.novatec-gmbh.de/the-problems-with-swagger)
+
+## api design style
+[api design style](https://www.infoq.com/presentations/api-design-style?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text)
+
+## Is GraphQL the Next Frontier for Web APIs?
+[Is GraphQL the Next Frontier for Web APIs?](https://brandur.org/api-paradigms)
+
+## steve yegge SOA rant
+[steve yegge SOA rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
+
+## richardson maturity model
+[richardson maturity model](https://martinfowler.com/articles/richardsonMaturityModel.html)
+
+## API Aesthetics
+[API Aesthetics](https://www.infoq.com/presentations/api-design-style?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text)
+
+## raml vs swagger discussion
+[raml vs swagger discussion](https://www.infoq.com/presentations/raml-swagger?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text)
+
+## discussion on design in hacker news
+[discussion on design in hacker news](https://news.ycombinator.com/item?id=13706618)
+
+## design guide collection by api evangelist
+[design guide collection by api evangelist](http://design.apievangelist.com/tools/design-guides)
+
+## Microservices - please don't
+[microservices - please don't](http://basho.com/posts/technical/microservices-please-dont)
+
+## In Defense of the Monolith - part 1 & 2
+[monolith - part 1](https://www.infoq.com/articles/monolith-defense-part-1)
+[monolith - part 2](https://www.infoq.com/articles/monolith-defense-part-2)
+
+## Martin Fowler - Monolith First
+[monolith first](https://martinfowler.com/bliki/MonolithFirst.html)
+
+## API Style Book
+[api style book](http://apistylebook.com)
+
+## microsoft API design guide
+[microsoft API design guide](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+
+## google API design guide
+[https://cloud.google.com/apis/design/](https://cloud.google.com/apis/design)
+
+## rest api design resource modeling
+[rest api design resource modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
