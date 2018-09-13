@@ -1,6 +1,0 @@
-* jake
-** TODO get a list of movies
-** TODO get a list of tv shows
-
-* silicon valley
-** TODO download S05E05
