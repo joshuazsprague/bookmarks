@@ -1,3 +1,13 @@
+## What is API Throttling, Quota, Rate Limiting and Burst?
+[What is API Throttling, Quota, Rate Limiting and Burst?](https://apifriends.com/api-management/api-quota)
+
+## SQL as an API language
+[SQL as an API language](https://simonwillison.net/2018/Oct/4/datasette-ideas/#SQL_as_an_API_language)
+
+## do you really know cors
+[do you really know cors](http://performantcode.com/web/do-you-really-know-cors)
+https://news.ycombinator.com/item?id=18134114
+
 ## restful api's a step by step guide
 [restful api's a step by step guide](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)
 

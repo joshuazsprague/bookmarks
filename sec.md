@@ -1,3 +1,16 @@
+## The Illustrated TLS Connection
+[The Illustrated TLS Connection](https://tls.ulfheim.net)
+
+## open source crypto is no better than closed source crypto
+[open source crypto is no better than closed source crypto](https://research.kudelskisecurity.com/2018/10/02/open-source-crypto-is-no-better-than-closed-source-crypto/)
+
+## the big hack how china used a tiny chip to infiltrate america s top companies
+[the big hack how china used a tiny chip to infiltrate america s top companies](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies)
+
+## mit - how blockchain works
+[mit - how blockchain works](http://blockchain.mit.edu/how-blockchain-works)
+
+## 
 https://itsfoss.com/nsas-encryption-algorithm-in-linux-kernel-is-creating-unease-in-the-community/
 
 ## a new security header feature policy

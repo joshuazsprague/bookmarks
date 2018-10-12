@@ -1,3 +1,5 @@
+## david patterson says its time for new computer architectures and software languages
+[david patterson says its time for new computer architectures and software languages](https://spectrum.ieee.org/view-from-the-valley/computing/hardware/david-patterson-says-its-time-for-new-computer-architectures-and-software-languages)
 
 https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/
 

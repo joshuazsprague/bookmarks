@@ -1,3 +1,7 @@
+## the mission/why building your own deep learning computer is 10x cheaper than aws
+https://medium.com/the-mission/why-building-your-own-deep-learning-computer-is-10x-cheaper-than-aws-b1c91b55ce8c
+https://news.ycombinator.com/item?id=18063893
+
 ## foundations of machine learning
 [foundations of machine learning](https://bloomberg.github.io/foml/#home)
 

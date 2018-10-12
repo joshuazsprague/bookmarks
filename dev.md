@@ -1,5 +1,14 @@
-## 100+ Data Structure and Algorithm Interview Questions Answers for Programmersexit
+## why you can have a million go routines but only 1000 java threads
+[why you can have a million go routines but only 1000 java threads](https://rcoh.me/posts/why-you-can-have-a-million-go-routines-but-only-1000-java-threads/)
 
+## go hits the concurrency nail right on the head
+[go hits the concurrency nail right on the head](https://eli.thegreenplace.net/2018/go-hits-the-concurrency-nail-right-on-the-head/)
+
+## holding a program in one's head
+[holding a program in one's head](http://paulgraham.com/head.html)
+
+
+## 100+ Data Structure and Algorithm Interview Questions Answers for Programmersexit
 [100+ Data Structure and Algorithm Interview Questions Answers for Programmers](http://www.java67.com/2018/06/data-structure-and-algorithm-interview-questions-programmers.html)
 
 ## fred brooks vs dijkstra
