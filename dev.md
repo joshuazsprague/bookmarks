@@ -1,3 +1,6 @@
+## How Lisp Became God's Own Programming Language
+[How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html)
+
 ## why you can have a million go routines but only 1000 java threads
 [why you can have a million go routines but only 1000 java threads](https://rcoh.me/posts/why-you-can-have-a-million-go-routines-but-only-1000-java-threads/)
 

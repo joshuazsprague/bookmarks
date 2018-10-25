@@ -1,3 +1,6 @@
+## modernizing transport security
+[modernizing transport security](https://security.googleblog.com/2018/10/modernizing-transport-security.html)
+
 ## The Illustrated TLS Connection
 [The Illustrated TLS Connection](https://tls.ulfheim.net)
 

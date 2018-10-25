@@ -1,3 +1,6 @@
+## the highest paid workers in silicon valley are not software engineers
+[the highest paid workers in silicon valley are not software engineers](https://qz.com/766658/the-highest-paid-workers-in-silicon-valley-are-not-software-engineers/)
+
 ## former tesla employee unloading (NDA)
 [former Tesla employee](https://twitter.com/atomicthumbs/status/1032939617404645376)
 
