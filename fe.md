@@ -1,3 +1,6 @@
+## web perf 101
+[web perf 101](https://3perf.com/talks/web-perf-101)
+
 ## love letter to vue
 [love letter to vue](http://www.evaristesys.com/blog/love-letter-to-vue/)
 
