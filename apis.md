@@ -1,3 +1,21 @@
+## api design patterns (apigee)
+[api design patterns (apigee)](https://apigee.com/about/cp/api-design-patterns)
+
+## Design Patterns for creating REST-APIs
+[Design Patterns for creating REST-APIs](https://hersengarage.nl/rest-api-design-as-a-craft-not-an-art-a3fd97ed3ef4?gi=6ed0b7563451)
+
+## api design best practices (microsoft)
+[api design best practices (microsoft)](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+
+## restful api design patterns (snyxius)
+[restful api design patterns (snyxius)](https://www.snyxius.com/restful-api-design-patterns/)
+
+## Martin Fowler - tagged "API"
+[Martin Fowler - tagged "API"](https://martinfowler.com/tags/API%20design.html)
+
+## you need api management help 11 open source tools consider
+[you need api management help 11 open source tools consider](https://techbeacon.com/you-need-api-management-help-11-open-source-tools-consider?amp)
+
 ## What is API Throttling, Quota, Rate Limiting and Burst?
 [What is API Throttling, Quota, Rate Limiting and Burst?](https://apifriends.com/api-management/api-quota)
 

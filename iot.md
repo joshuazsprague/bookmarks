@@ -1,3 +1,6 @@
+## the state of iot intelligence 2018
+[the state of iot intelligence 2018](https://www.forbes.com/sites/louiscolumbus/2018/11/04/the-state-of-iot-intelligence-2018/#4fcedac0db00)
+
 ## the joke is over we can stop pretending lte-m is a lpwan
 [the joke is over we can stop pretending lte-m is a lpwan](https://medium.com/@patburns/the-joke-is-over-we-can-stop-pretending-lte-m-is-a-lpwan-683020fcb3b5)
 

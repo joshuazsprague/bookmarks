@@ -1,3 +1,6 @@
+## Programming Paradigms for Dummies: What Every Programmer Should Know
+[Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+
 ## How Lisp Became God's Own Programming Language
 [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html)
 

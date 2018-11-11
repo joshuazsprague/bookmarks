@@ -1,3 +1,6 @@
+## component folder pattern
+[component folder pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
+
 ## web perf 101
 [web perf 101](https://3perf.com/talks/web-perf-101)
 

@@ -1,3 +1,6 @@
+## engineers shouldnt write etl
+[engineers shouldnt write etl](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl)
+
 ## Why Jupyter is data scientists’ computational notebook of choice
 [Why Jupyter is data scientists’ computational notebook of choice](https://www.nature.com/articles/d41586-018-07196-1)
 
