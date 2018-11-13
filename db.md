@@ -1,3 +1,6 @@
+## datomic event sourcing without the hassle
+[datomic event sourcing without the hassle](https://vvvvalvalval.github.io/posts/2018-11-12-datomic-event-sourcing-without-the-hassle.html)
+
 ## Data Lake vs. Data Warehouse: Which Is the Best Data Architecture?
 [Data Lake vs. Data Warehouse: Which Is the Best Data Architecture?](https://readwrite.com/2018/07/10/data-lake-vs-data-warehouse-which-is-the-best-data-architecture/)
 

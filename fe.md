@@ -1,3 +1,6 @@
+## why do all websites look the same
+[why do all websites look the same](https://medium.com/s/story/on-the-visual-weariness-of-the-web-8af1c969ce73)
+
 ## component folder pattern
 [component folder pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
 
