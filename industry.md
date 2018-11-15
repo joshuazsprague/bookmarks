@@ -1,3 +1,6 @@
+## How This Startup Made $10.5 Million in Revenue With Every Single Employee Working From Home
+[How This Startup Made $10.5 Million in Revenue With Every Single Employee Working From Home](https://www.inc.com/cameron-albert-deitch/2018-inc5000-gitlab.html)
+
 ## the highest paid workers in silicon valley are not software engineers
 [the highest paid workers in silicon valley are not software engineers](https://qz.com/766658/the-highest-paid-workers-in-silicon-valley-are-not-software-engineers/)
 

@@ -1,3 +1,6 @@
+## how multi beam flash lidar works
+[how multi beam flash lidar works](https://www.ouster.io/blog-posts/2018/11/8/how-multi-beam-flash-lidar-works)
+
 ## engineers shouldnt write etl
 [engineers shouldnt write etl](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl)
 
