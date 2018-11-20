@@ -1,3 +1,8 @@
+## post rest
+[post rest](https://www.tbray.org/ongoing/When/201x/2018/11/18/Post-REST)
+### hacker news discussion for "post rest"
+[hacker news discussion for "post rest"](https://news.ycombinator.com/item?id=18485978)
+
 ## api design patterns (apigee)
 [api design patterns (apigee)](https://apigee.com/about/cp/api-design-patterns)
 

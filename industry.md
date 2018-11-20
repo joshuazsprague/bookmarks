@@ -1,3 +1,12 @@
+## why standing desks are overrated
+[why standing desks are overrated](https://www.nytimes.com/2018/11/19/upshot/why-standing-desks-are-overrated.html)
+
+## dont work remotely
+[dont work remotely](http://blairreeves.me/2018/11/09/dont-work-remotely/?resubmit=hn)
+
+## If you want to understand silicon valley, watch silicon valley
+[If you want to understand silicon valley, watch silicon valley](https://www.gatesnotes.com/About-Bill-Gates/Silicon-Valley)
+
 ## How This Startup Made $10.5 Million in Revenue With Every Single Employee Working From Home
 [How This Startup Made $10.5 Million in Revenue With Every Single Employee Working From Home](https://www.inc.com/cameron-albert-deitch/2018-inc5000-gitlab.html)
 
