@@ -1,3 +1,6 @@
+## How to Design Software Good
+[How to Design Software Good](https://www.haiku-os.org/docs/HIG/index.xml)
+
 ## Programming Paradigms for Dummies: What Every Programmer Should Know
 [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 

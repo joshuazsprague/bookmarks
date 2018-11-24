@@ -1,3 +1,6 @@
+## some notes about http3
+[some notes about http3](https://blog.erratasec.com/2018/11/some-notes-about-http3.html)
+
 ## 
 https://code.fb.com/networking-traffic/deploying-tls-1-3-at-scale-with-fizz-a-performant-open-source-tls-library/
 
