@@ -1,3 +1,6 @@
+## HTTP3/explained
+[HTTP3/explained](https://daniel.haxx.se/http3-explained/)
+
 ## some notes about http3
 [some notes about http3](https://blog.erratasec.com/2018/11/some-notes-about-http3.html)
 
