@@ -1,3 +1,6 @@
+## editor report the rise of visual studio code
+[editor report the rise of visual studio code](https://triplebyte.com/blog/editor-report-the-rise-of-visual-studio-code)
+
 ## How to Design Software Good
 [How to Design Software Good](https://www.haiku-os.org/docs/HIG/index.xml)
 
