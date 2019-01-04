@@ -1,4 +1,8 @@
+## Serverless Computing: One Step Forward, Two Steps Back
+[Serverless Computing: One Step Forward, Two Steps Back](https://arxiv.org/abs/1812.03651)
 
+## 2018 cloud report
+[2018 cloud report](https://www.cockroachlabs.com/blog/2018_cloud_report/)
 
 ## weekly newsletter about Google Cloud Platform
 [weekly newsletter about Google Cloud Platform](https://www.gcpweekly.com/)

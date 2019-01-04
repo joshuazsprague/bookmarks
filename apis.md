@@ -1,3 +1,9 @@
+## understanding rpc rest and graphql
+[understanding rpc rest and graphql](https://blog.apisyouwonthate.com/understanding-rpc-rest-and-graphql-2f959aadebe7)
+
+## picking the right api paradigm
+[picking the right api paradigm](https://blog.apisyouwonthate.com/picking-the-right-api-paradigm-d476f1a622e8?gi=be14dae47119)
+
 ## post rest
 [post rest](https://www.tbray.org/ongoing/When/201x/2018/11/18/Post-REST)
 ### hacker news discussion for "post rest"

@@ -1,3 +1,6 @@
+## Everything you should know about certificates and PKI but are too afraid to ask
+[Everything you should know about certificates and PKI but are too afraid to ask](https://smallstep.com/blog/everything-pki.html)
+
 ## modernizing transport security
 [modernizing transport security](https://security.googleblog.com/2018/10/modernizing-transport-security.html)
 
@@ -13,7 +16,7 @@
 ## mit - how blockchain works
 [mit - how blockchain works](http://blockchain.mit.edu/how-blockchain-works)
 
-## 
+## nsas encryption algorithm in linux kernel is creating unease in the community
 https://itsfoss.com/nsas-encryption-algorithm-in-linux-kernel-is-creating-unease-in-the-community/
 
 ## a new security header feature policy
