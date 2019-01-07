@@ -54,17 +54,19 @@ https://tools.ietf.org/html/draft-ietf-httpbis-bcp56bis-06
 ## 8 reasons why your api adoption is so slow
 [8 reasons why your api adoption is so slow](https://techbeacon.com/8-reasons-why-your-api-adoption-so-slow)
 
-## A Microservices implementation journey - Part 1
+## A Microservices implementation journey
+
+### A Microservices implementation journey - Part 1
 [A Microservices implementation journey - Part 1](https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917)
 
-## A Microservices implementation journey - Part 2
+### A Microservices implementation journey - Part 2
 [A Microservices implementation journey - Part 2](https://koukia.ca/a-microservices-implementation-journey-part-2-10c422a4d402)
 
-## A Microservices implementation journey - Part 3
+### A Microservices implementation journey - Part 3
 [A Microservices implementation journey - Part 3](https://koukia.ca/a-microservices-implementation-journey-part-3-50f030ba6bb5)
 
-## A Microservices implementation journey - Part 4
-[A Microservices implementation journey](https://koukia.ca/a-microservices-implementation-journey-part-4-9c19a16385e9?gi=192c87ccc695)
+### A Microservices implementation journey - Part 4
+[A Microservices implementation journey - Part 4](https://koukia.ca/a-microservices-implementation-journey-part-4-9c19a16385e9?gi=192c87ccc695)
 
 ## Optimizing the Netflix API
 [Optimizing the Netflix API](https://medium.com/netflix-techblog/optimizing-the-netflix-api-5c9ac715cf19)
@@ -153,6 +155,9 @@ https://tools.ietf.org/html/draft-ietf-httpbis-bcp56bis-06
 
 ## api design style
 [api design style](https://www.infoq.com/presentations/api-design-style?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text)
+
+## beautiful REST & JSON APIs (les hazelwood presentation)
+[beautiful REST & JSON APIs (les hazelwood presentation)](https://www.youtube.com/watch?v=mZ8_QgJ5mbs&t=368s)
 
 ## Is GraphQL the Next Frontier for Web APIs?
 [Is GraphQL the Next Frontier for Web APIs?](https://brandur.org/api-paradigms)

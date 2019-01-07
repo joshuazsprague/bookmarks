@@ -1,3 +1,7 @@
+## crypto 101
+Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels.
+[crypto 101](https://www.crypto101.io/)
+
 ## Everything you should know about certificates and PKI but are too afraid to ask
 [Everything you should know about certificates and PKI but are too afraid to ask](https://smallstep.com/blog/everything-pki.html)
 
