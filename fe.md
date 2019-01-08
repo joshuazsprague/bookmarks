@@ -1,3 +1,16 @@
+## Inside look at modern web browser
+Inside look at modern web browser (part 1)
+https://developers.google.com/web/updates/2018/09/inside-browser-part1
+Inside look at modern web browser (part 2)
+https://developers.google.com/web/updates/2018/09/inside-browser-part2
+Inside look at modern web browser (part 3)
+https://developers.google.com/web/updates/2018/09/inside-browser-part3
+Inside look at modern web browser (part 4)
+https://developers.google.com/web/updates/2018/09/inside-browser-part4
+
+## the cost of javascript in 2018
+[the cost of javascript in 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+
 ## why do all websites look the same
 [why do all websites look the same](https://medium.com/s/story/on-the-visual-weariness-of-the-web-8af1c969ce73)
 

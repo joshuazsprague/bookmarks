@@ -1,3 +1,7 @@
+## 2018 review predictions microservices api gateways kubernetes service mesh
+[2018 review predictions microservices api gateways kubernetes service mesh](https://glasnostic.com/blog/2018-review-predictions-microservices-api-gateways-kubernetes-service-mesh)
+[hacker news discussion](https://news.ycombinator.com/item?id=18841432)
+
 ## Designing a Messaging System Using Enterprise Integration Patterns
 [Designing a Messaging System Using Enterprise Integration Patterns](https://hackernoon.com/designing-a-messaging-system-using-enterprise-integration-patterns-86a998a07bd3)
 
