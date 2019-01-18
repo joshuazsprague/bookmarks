@@ -1,3 +1,9 @@
+## apigee top 10 api articles of 2018
+[apigee top 10 api articles of 2018](https://medium.com/apis-and-digital-transformation/our-top-api-articles-of-2018-41ccd921284b)
+
+## 10 soa design patterns every architect should know
+[10 soa design patterns every architect should know](https://arch.simplicable.com/arch/new/10-soa-design-patterns-every-architect-should-know)
+
 ## understanding rpc rest and graphql
 [understanding rpc rest and graphql](https://blog.apisyouwonthate.com/understanding-rpc-rest-and-graphql-2f959aadebe7)
 
