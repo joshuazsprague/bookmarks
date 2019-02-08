@@ -1,3 +1,6 @@
+## hierarchy api design principles
+[hierarchy api design principles](http://api-as-a-product.com/articles/hierarchy-api-design-principles/)
+
 ## apigee top 10 api articles of 2018
 [apigee top 10 api articles of 2018](https://medium.com/apis-and-digital-transformation/our-top-api-articles-of-2018-41ccd921284b)
 
