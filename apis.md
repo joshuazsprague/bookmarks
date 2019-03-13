@@ -1,3 +1,9 @@
+## Best Practices for Building Great API Developer Portals
+[Best Practices for Building Great API Developer Portals](https://yos.io/2018/02/14/api-developer-portal-best-practices/)
+
+## Putting the Kit back in SDKs, Darrel Miller, Microsoft
+[Putting the Kit back in SDKs, Darrel Miller, Microsoft](https://www.youtube.com/watch?v=DA8DxLMn2NU)
+
 ## hierarchy api design principles
 [hierarchy api design principles](http://api-as-a-product.com/articles/hierarchy-api-design-principles/)
 
